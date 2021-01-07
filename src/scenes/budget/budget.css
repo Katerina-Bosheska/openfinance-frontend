@@ -1,0 +1,27 @@
+#budget-items-container {
+    color: #050C42;
+    margin: 0 auto;
+    width: 90%;
+    text-align: left;
+    padding:20px;
+}
+#budget-items-container .row{
+    padding: 10px 5px;
+}
+#budget-items-container col {
+    padding: 10px 5px;
+}
+#budget-items-container a {
+    text-decoration: none;
+    color: #050C42;
+}
+#budget-label-container, #budget-filter-container{
+    color: black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin: 0 auto;
+    width: 90%;
+    text-align: left;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}

@@ -1,0 +1,12 @@
+#home-container {
+    background-color: #050C42 !important;
+    height: 200px;
+}
+#fade_hr {
+    width: 90%;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    border: 0;
+    height: 0.5px;
+    background: gray;
+}

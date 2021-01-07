@@ -1,0 +1,39 @@
+#account-container{
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 90%;
+    padding: 20px 50px;
+    background-color: white !important;
+    border-radius: 15px;
+    -webkit-box-shadow: 0px 2px 9px -1px gray;
+    box-shadow: 0px 2px 9px -1px gray;
+    background-image: url("./white.png");
+}
+
+#account-container p {
+   font-weight: bold;
+    color: #050C42;
+    display: inline-block;
+    padding-left: 5px;
+}
+
+#account-container .amount {
+    background-color: #5ECBA1;
+    color:white;
+    padding:5px 10px;
+    border-radius: 5px;
+}
+
+#account-name {
+    color: #050C42;
+    padding-bottom: 30px;
+}
+
+#account-container h6 {
+    color: gray;
+    display: inline-block;
+}
+
+#amount-info {
+    padding-top: 50px;
+}

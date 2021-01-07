@@ -1,0 +1,43 @@
+#at_container{
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 90%;
+    padding: 20px;
+    background-color: white !important;
+    border-radius: 15px;
+    -webkit-box-shadow: 0px 2px 9px -1px gray;
+    box-shadow: 0px 2px 9px -1px gray;
+}
+
+#at_container .row {
+    padding-bottom: 20px;
+}
+
+#at_container #errorMsg {
+    color:red;
+}
+
+#at_container .btn {
+    background-color: #660066;
+    color: white;
+    /*float: right;*/
+}
+.hr_gradient{
+    border:0;
+    height: 5px;
+    width: 1030px;
+    display: inline-block;
+    margin-top: 10px;
+    /*background: linear-gradient(0.25turn, #5ECAA1, #BCE68C, #8c9fd9, #EDB577, #FD766D);*/
+    background: #5ecba1;
+    background: -webkit-linear-gradient(left, #5ecba1, #660066);
+    background: -moz-linear-gradient(left, #5ecba1, #660066);
+    background: -ms-linear-gradient(left, #5ecba1, #660066);
+    background: -o-linear-gradient(left, #5ecba1, #660066);
+    background: linear-gradient(to right, #5ecba1, #660066);
+}
+
+.errorMsg {
+    color:red;
+    padding-top: 5px;
+}

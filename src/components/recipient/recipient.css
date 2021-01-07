@@ -1,0 +1,47 @@
+.recipient-item-container{
+    color: #050C42;
+    margin: 0 auto;
+    width: 90%;
+    text-align: left;
+    padding:20px;
+}
+.recipient-item-container .payer-name{
+    text-align: left;
+}
+.btn-details-preview {
+    background-color: #5ECBA1;
+    color: white;
+}
+#recipient-label-container, #recipient-filter-container{
+    /*background-color: #050C42;*/
+    color:black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin: 0 auto;
+    width: 90%;
+    text-align: left;
+    padding: 20px;
+    margin-top: 20px;
+}
+#recipient-filter-container{
+    background-color: whitesmoke;
+    margin-top: 0;
+    border-radius:0;
+}
+.amount{
+    color: #da7258;
+}
+#recipients-main-container {
+    height: 165px;
+    background-color: #050C42;
+}
+#recipients-main-container hr{
+    width: 90%;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    border: 0;
+    height: 0.5px;
+    background: gray;
+}
+
+

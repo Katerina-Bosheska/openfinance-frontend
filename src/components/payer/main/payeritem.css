@@ -1,0 +1,64 @@
+.payer-item-container{
+    color: #050C42;
+    margin: 0 auto;
+    width: 90%;
+    text-align: left;
+    padding:20px;
+}
+.payer-item-container .payer-name{
+    text-align: left;
+}
+.btn-details-preview {
+    background-color: #5ECBA1;
+    color: white;
+}
+#payer-label-container, #payer-filter-container{
+    /*background-color: #050C42;*/
+    color: black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin: 0 auto;
+    width: 90%;
+    text-align: left;
+    padding: 20px;
+    margin-top: 20px;
+}
+#payer-filter-container{
+    background-color: whitesmoke;
+    margin-top: 0;
+    border-radius:0;
+}
+.amount{
+    color: #da7258;
+}
+#account-label {
+    width:90%;
+    margin:0 auto;
+    padding-top: 40px;
+}
+#account-label hr {
+    margin-top:5px;
+    width:100% !important;
+    height:2px !important;
+    background-color: lightgray !important;
+}
+#account-label h6 {
+    color: #43497B;
+    display:inline-block;
+}
+#see-all {
+    float:right;
+    color: #7175D8;
+}
+#payers-main-container{
+    height: 165px;
+    background-color: #050C42;
+}
+#payers-main-container hr{
+    width: 90%;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    border: 0;
+    height: 0.5px;
+    background: gray;
+}

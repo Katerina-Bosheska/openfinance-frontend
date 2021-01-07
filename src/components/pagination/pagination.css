@@ -1,0 +1,10 @@
+nav{
+    margin-top:20px;
+}
+.pagination a{
+    color: gray;
+}
+.pagination .active {
+    background-color: #5ECBA1;
+    color:white;
+}
