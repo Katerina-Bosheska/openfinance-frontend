@@ -22,7 +22,7 @@ class Navbar extends React.Component {
                   <p>Open Finance</p>
               </Link>
               <ul id="navbar-items">
-                  <li><Link to="/about" id="about" className="navbar-item">Логирај се</Link></li>
+                  <li><Link to="/about" id="about" className="navbar-item">За нас</Link></li>
                   <li><Link to="/links" className="navbar-item"><span className="fa fa-list-ul"></span> Линкови</Link></li>
                   <li><Link to="/budget" className="navbar-item"><span className="fa fa-briefcase"></span> Буџетски корисници</Link></li>
                   <li>

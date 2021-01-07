@@ -46,12 +46,11 @@ const App = () => {
                     <Route exact path="/links">
                         <LinksPage/>
                     </Route>
-                    <Route exact path="/login">
-                        {/*<About/>*/}
-                        <LoginPage/>
+                    <Route exact path="/about">
+                        <About/>
+                        {/*<LoginPage/>*/}
                     </Route>
                     <Route exact path="/add">
-                        {/*<About/>*/}
                         <AddTransaction/>
                     </Route>
             </Switch>
